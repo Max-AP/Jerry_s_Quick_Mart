@@ -61,11 +61,10 @@ Enter the cash provided to complete the transaction. If the cash is insufficient
 A detailed receipt is saved in the format:
 `transaction_<transactionNumber>_<MMDDYYYY>.txt`
 The receipt includes:
-
-- Date and transaction number.
-- Itemized list of purchases.
-- Subtotal, tax, total, cash, and change.
-- Savings information for rewards members or potential savings for non-members.
+  - Date and transaction number.
+  - Itemized list of purchases.
+  - Subtotal, tax, total, cash, and change.
+  - Savings information for rewards members or potential savings for non-members.
 
 ### Example Inventory Format
 The inventory is loaded from a file named inventory.txt with the following format:

@@ -1,0 +1,32 @@
+Milk: 10, $3.75, $3.50, Tax-Exempt
+Bread: 1, $2.50, $2.25, Tax-Exempt
+Eggs: 4, $4.00, $3.75, Tax-Exempt
+Flour: 5, $3.10, $2.75, Tax-Exempt
+Butter: 4, $5.00, $4.50, Tax-Exempt
+Red Bull: 6, $4.30, $4.00, Taxable
+Peanut Butter: 6, $3.25, $3.00, Tax-Exempt
+Sugar: 8, $2.00, $1.80, Tax-Exempt
+Cheese: 5, $6.00, $5.50, Tax-Exempt
+Frozen Vegetables: 7, $4.50, $4.00, Tax-Exempt
+Canned Soup: 2, $3.75, $3.50, Taxable
+Potato Chips: 5, $4.25, $4.00, Taxable
+Soda: 10, $2.00, $1.75, Taxable
+Coffee: 3, $7.50, $7.00, Tax-Exempt
+Tea Bags: 4, $3.50, $3.25, Tax-Exempt
+Ice Cream: 3, $6.00, $5.50, Taxable
+Chocolate Bar: 8, $1.50, $1.25, Taxable
+Toothpaste: 6, $3.75, $3.50, Tax-Exempt
+Shampoo: 4, $5.00, $4.75, Taxable
+Band-Aids: 3, $4.50, $4.25, Tax-Exempt
+Antiseptic Wipes: 5, $6.00, $5.50, Tax-Exempt
+Hydrogen Peroxide: 3, $2.50, $2.25, Tax-Exempt
+Allergy Relief Tablets: 2, $8.00, $7.50, Tax-Exempt
+Insulin: 1, $25.00, $23.00, Tax-Exempt
+Multivitamins: 3, $10.00, $9.50, Tax-Exempt
+Baby Formula: 6, $15.00, $14.00, Tax-Exempt
+Diapers: 8, $12.00, $11.00, Tax-Exempt
+Sanitary Napkins: 5, $7.50, $7.00, Tax-Exempt
+Cat Food: 4, $10.50, $10.00, Taxable
+Dog Treats: 5, $8.50, $8.00, Taxable
+Laundry Detergent: 3, $15.00, $14.50, Taxable
+Trash Bags: 4, $7.00, $6.50, Taxable
